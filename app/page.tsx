@@ -130,7 +130,7 @@ export default function Home() {
 
           <div className="flex items-center gap-2 bg-emerald-500/10 border border-emerald-500/20 rounded-full px-3 py-1.5">
             <div className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse" />
-            <span className="text-emerald-400 text-xs font-medium">Instant Delivery</span>
+            <span className="text-emerald-400 text-xs font-medium">Instant Delivery with 0% Fees</span>
           </div>
         </div>
       </header>
@@ -142,13 +142,13 @@ export default function Home() {
             Trusted Robux Supplier
           </div>
           <h1 className="text-4xl md:text-6xl font-black tracking-tight mb-4 leading-[1.05]">
-            More Robux,{" "}
+            Cheap Robux,{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#0042B7] to-[#4D80D4]">
-              less money.
+              no 30% Robux Tax.
             </span>
           </h1>
           <p className="text-[#8B8FA8] text-lg max-w-md mx-auto">
-            Buy Robux below the official price. Payment via Stripe — delivery in under 24 hours.
+            Buy Robux below the official price. 0% Robux tax — get 100% of the Robux you paid for.
           </p>
         </div>
 
