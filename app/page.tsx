@@ -113,16 +113,7 @@ export default function Home() {
         <div className="max-w-5xl mx-auto flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center gap-3">
-            <div className="w-9 h-9 rounded-xl bg-white flex items-center justify-center overflow-hidden shrink-0">
-              <Image
-                src="/logo.png"
-                alt="ArkSuppliers logo"
-                width={36}
-                height={36}
-                className="object-cover scale-[2.2] translate-x-[4px]"
-                priority
-              />
-            </div>
+            
             <span className="font-bold text-white tracking-tight text-lg">
               Ark<span className="text-[#0042B7]">Suppliers</span>
             </span>
