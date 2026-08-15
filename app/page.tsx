@@ -245,8 +245,8 @@ export default function Home() {
               <div className="space-y-3">
                 {[
                   { n: "1", text: "Pick a package and pay securely via Stripe." },
-                  { n: "2", text: "Check your email — we'll send Roblox delivery instructions." },
-                  { n: "3", text: "Add us on Roblox. We send your Robux within 24 hours." },
+                  { n: "2", text: "Check your email — we'll send Robux delivery instructions." },
+                  { n: "3", text: "Your Robux is sent via the Send Robux feature." },
                 ].map((s) => (
                   <div key={s.n} className="flex gap-3 items-start">
                     <span className="w-5 h-5 rounded-full bg-[#0042B7]/20 text-[#4D80D4] text-xs font-bold flex items-center justify-center shrink-0 mt-0.5">
