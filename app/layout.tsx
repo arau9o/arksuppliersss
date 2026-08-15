@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "ArkSuppliers — Cheap Robux",
+  title: "Ark$uppliers | Cheap Robux",
   description: "Buy Robux below the official price. Fast, safe, and reliable delivery.",
 };
 
