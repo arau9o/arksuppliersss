@@ -142,9 +142,9 @@ export default function Home() {
             Trusted Robux Supplier
           </div>
           <h1 className="text-4xl md:text-6xl font-black tracking-tight mb-4 leading-[1.05]">
-            Cheap Robux,{" "}
+            Buy Cheap{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#0042B7] to-[#4D80D4]">
-              no 30% Robux Tax.
+              Robux With No Roblox Fee.
             </span>
           </h1>
           <p className="text-[#8B8FA8] text-lg max-w-md mx-auto">
